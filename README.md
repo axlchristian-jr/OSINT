@@ -37,3 +37,4 @@ Pinned projects (coming soon):
 
 ### 🎧 Vibe
 “Belajar itu pelan, tapi jejaknya permanen.”
+<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/banner.png" width="100%" />
