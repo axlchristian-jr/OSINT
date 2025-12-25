@@ -1,0 +1,29 @@
+[ ] Minggu 1 — Basic & Setup
+    - Kenal OSINT, mindset, legal boundary
+    - Install tools dasar: termux / linux / windows
+    - Pahami footprint: username, email, domain, phone
+
+[ ] Minggu 2 — Username & Email Investigation
+    - Sherlock & Maigret: username hunting
+    - holehe & howmanyofme: email lookup
+    - Writeup 1: dokumentasi investigasi username target dummy
+
+[ ] Minggu 3 — Domain & Network Recon
+    - theHarvester, whois lookup, dnsrecon
+    - Subdomain enumeration basic
+    - Writeup 2: mapping domain organisasi dummy
+
+[ ] Minggu 4 — Metadata & File OSINT
+    - exiftool, exifscan, metadata2go
+    - Reverse Image Search & geolocation dasar
+    - Writeup 3: analisa gambar + lokasi
+
+[ ] Minggu 5 — Automation Basic
+    - Python basic scraping
+    - Buat modul automation kecil di folder `modules/`
+    - Simpan hasil di folder `data/`
+
+[ ] Minggu 6 — Final Mini Project
+    - Pilih target simulasi legal (ex: profile online palsu)
+    - Lakuin full cycle investigasi
+    - Buat laporan markdown di repo
