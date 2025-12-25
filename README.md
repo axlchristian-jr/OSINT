@@ -1,3 +1,39 @@
 # OSINT
 Open Source Intelligence (OSINT) resources, tools, and notes for information gathering and analysis.
 https://osintframework.com/
+# 👾 Axl Christian Jr
+
+> "Curiosity builds skill — consistency sharpens the blade."
+
+🔍 Learner: OSINT | Ethical Hacking | Python  
+📍 Current mission: Termux + OSINT tooling  
+🧱 Alias: **noob-ply.kit** — where experiments turn into tools  
+🔥 Goal: from zero-to-somebody — step by step, commit by commit
+
+---
+
+### 📊 Stats & Progress
+![Axl Stats](https://github-readme-stats.vercel.app/api?username=axlchristian-jr&show_icons=true&theme=tokyonight)
+![Axl Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axlchristian-jr&layout=compact&theme=tokyonight)
+
+---
+
+### 📂 Building my toolkit
+Pinned projects (coming soon):
+- `noob-ply.kit/termux-osint-starter` — notes + first tools  
+- `noob-ply.kit/python-playground` — little scripts, big steps  
+- `noob-ply.kit/learning-logs` — consistency > perfection
+
+---
+
+### 🌱 Roadmap
+- [x] Setup GitHub profile  
+- [ ] Commit daily progress  
+- [ ] Create first OSINT script  
+- [ ] Release tiny CLI tool  
+- [ ] Share knowledge, no gatekeeping
+
+---
+
+### 🎧 Vibe
+“Belajar itu pelan, tapi jejaknya permanen.”
