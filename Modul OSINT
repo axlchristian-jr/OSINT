@@ -1,0 +1,9 @@
+# Placeholder modul OSINT username lookup
+# Next: tambahin API check & scraping
+
+def check_user(username):
+    return f"Investigasi username: {username} (placeholder)"
+
+if __name__ == "__main__":
+    target = input("Masukkan username: ")
+    print(check_user(target))
