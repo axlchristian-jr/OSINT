@@ -1,0 +1,12 @@
+osint-framework/
+├── README.md               # Dokumentasi utama
+├── data/                   # Hasil investigasi & dump data
+│   ├── usernames.txt
+│   └── leaked_emails.txt
+├── modules/                # Script OSINT modular
+│   ├── username_lookup.py
+│   ├── email_checker.py
+│   └── phone_osint.py
+├── tools.md                # List tools OSINT
+├── method.md               # Metode + workflow investigasi
+└── references.md           # Resource & referensi OSINT
