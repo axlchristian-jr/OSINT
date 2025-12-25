@@ -1,0 +1,6 @@
+1. Tentukan target (username / email / domain / phone)
+2. Kumpulkan footprint awal (passive recon)
+3. Jalankan tools sesuai kebutuhan
+4. Dokumentasikan progres + temuan di repo
+5. Simpan data mentah di `/data`
+6. Kembangkan modul otomatisasi di `/modules`
