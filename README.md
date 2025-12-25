@@ -9,3 +9,7 @@ https://osintframework.com/
 📍 Current mission: Termux + OSINT tooling  
 🧱 User: **noob-ply.kit** — where experiments turn into tools  
 🔥 Goal: from zero-to-somebody — step by step, commit by commit
+- osintframework.com
+- haveibeenpwned.com
+- intelx.io
+- meta.osint.ninja
