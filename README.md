@@ -12,29 +12,74 @@ https://osintframework.com/
 
 ---
 
-### 📊 Stats & Progress
-![Axl Stats](https://github-readme-stats.vercel.app/api?username=axlchristian-jr&show_icons=true&theme=tokyonight)
-![Axl Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axlchristian-jr&layout=compact&theme=tokyonight)
+[ ] Minggu 1 — Basic & Setup
+    - Kenal OSINT, mindset, legal boundary
+    - Install tools dasar: termux / linux / windows
+    - Pahami footprint: username, email, domain, phone
 
+[ ] Minggu 2 — Username & Email Investigation
+    - Sherlock & Maigret: username hunting
+    - holehe & howmanyofme: email lookup
+    - Writeup 1: dokumentasi investigasi username target dummy
+
+[ ] Minggu 3 — Domain & Network Recon
+    - theHarvester, whois lookup, dnsrecon
+    - Subdomain enumeration basic
+    - Writeup 2: mapping domain organisasi dummy
+
+[ ] Minggu 4 — Metadata & File OSINT
+    - exiftool, exifscan, metadata2go
+    - Reverse Image Search & geolocation dasar
+    - Writeup 3: analisa gambar + lokasi
+
+[ ] Minggu 5 — Automation Basic
+    - Python basic scraping
+    - Buat modul automation kecil di folder `modules/`
+    - Simpan hasil di folder `data/`
+
+[ ] Minggu 6 — Final Mini Project
+    - Pilih target simulasi legal (ex: profile online palsu)
+    - Lakuin full cycle investigasi
+    - Buat laporan markdown di repo
+    ---
+    osint-framework/
+├── README.md               # Dokumentasi utama
+├── data/                   # Hasil investigasi & dump data
+│   ├── usernames.txt
+│   └── leaked_emails.txt
+├── modules/                # Script OSINT modular
+│   ├── username_lookup.py
+│   ├── email_checker.py
+│   └── phone_osint.py
+├── tools.md                # List tools OSINT
+├── method.md               # Metode + workflow investigasi
+└── references.md           # Resource & referensi OSINT
 ---
-
-### 📂 Building my toolkit
-Pinned projects (coming soon):
-- `noob-ply.kit/termux-osint-starter` — notes + first tools  
-- `noob-ply.kit/python-playground` — little scripts, big steps  
-- `noob-ply.kit/learning-logs` — consistency > perfection
-
+1. Tentukan target (username / email / domain / phone)
+2. Kumpulkan footprint awal (passive recon)
+3. Jalankan tools sesuai kebutuhan
+4. Dokumentasikan progres + temuan di repo
+5. Simpan data mentah di `/data`
+6. Kembangkan modul otomatisasi di `/modules`
 ---
-
-### 🌱 Roadmap
-- [x] Setup GitHub profile  
-- [ ] Commit daily progress  
-- [ ] Create first OSINT script  
-- [ ] Release tiny CLI tool  
-- [ ] Share knowledge, no gatekeeping
-
+- theHarvester : domain, email, subnet
+- holehe : email dipakai dimana aja
+- sherlock : hunting username multi-platform
+- phoneinfoga : OSINT nomor telepon
+- exiftool : metadata foto & file
+- dnsrecon : recon domain
 ---
+# Placeholder modul OSINT username lookup
+# Next: tambahin API check & scraping
 
-### 🎧 Vibe
-“Belajar itu pelan, tapi jejaknya permanen.”
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/banner.png" width="100%" />
+def check_user(username):
+    return f"Investigasi username: {username} (placeholder)"
+
+if __name__ == "__main__":
+    target = input("Masukkan username: ")
+    print(check_user(target))
+  ---
+  - osintframework.com
+- haveibeenpwned.com
+- intelx.io
+- meta.osint.ninja
